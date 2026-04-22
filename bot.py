@@ -11,8 +11,8 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # --- Configurations ---
-TOKEN = '7149714912:AAEeGl6cSo1IG3y6Tuf6aomE62Uoc5Xtqjw'
-ADMIN_ID = 7149714912
+TOKEN = '7149714912:AAHXtwFHk5AZhXtxtWJEJ8x7s79YJnufb5w'
+ADMIN_ID = 5879540185
 USER_FILE = "users.txt"
 
 # API Settings
